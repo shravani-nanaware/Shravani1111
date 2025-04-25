@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shravani1111
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in data Science
 - 🌱 I’m currently learning BSc IT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
