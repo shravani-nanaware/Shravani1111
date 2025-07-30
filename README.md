@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shravani1111
+- 👋 Hi, I’m @Shrawani1111
 - 👀 I’m interested in data Science
 - 🌱 I’m currently learning BSc IT.
 - 💞️ I’m looking to collaborate on ...
